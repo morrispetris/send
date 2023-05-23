@@ -6,7 +6,7 @@
 
 
 # Build project
-FROM node:12 AS builder
+FROM node:16 AS builder
 RUN set -x \
     # Add user
     && addgroup --gid 10001 app \
