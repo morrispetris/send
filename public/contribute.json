@@ -16,7 +16,7 @@
     "urls": {
       "prod": "https://send.firefox.com/",
       "stage": "https://stage.send.nonprod.cloudops.mozgcp.net/",
-      "dev": "https://send2.dev.lcip.org/"
+      "dev": "https://mozillasend.onrender.com/"
     },
   "keywords": [
     "JavaScript",
